@@ -24,7 +24,7 @@
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,angular,fastapi,postgres,mysql,mongodb,py,ts,js,html,css,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,fastapi,postgres,mongodb,py,ts,js,html,css,git,github,docker" />
 </div>
 
 ---
