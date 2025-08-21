@@ -8,7 +8,7 @@
 
 - 🎓 Cursando Bacharelado em Ciência da Computação na Universidade Federal de Pernambuco
 - 💻 Atualmente focado em **React, Node.js, Express, PostgreSQL e Docker**
-- 🌱 Aprendendo mais sobre **DevOps e Clean Architecture**
+- 🌱 Aprendendo mais sobre **Desenvolvimento Mobile e Clean Architecture**
 - 📊 Interesse por projetos de impacto com tecnologia e inovação
 - 📫 Contato: hcm@cin.ufpe.br
 
