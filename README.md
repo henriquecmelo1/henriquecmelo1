@@ -1,16 +1,59 @@
 # Olá! 👋 Sou Henrique Melo
 
-### Estudante de Ciência da Computação | Desenvolvedor Full Stack em formação
+### Estudante de Ciência da Computação na UFPE | Desenvolvedor Full Stack com foco em Back-end
+
+Construo soluções web com foco em arquitetura limpa, APIs bem estruturadas e aplicações de impacto real.
 
 ---
 
 ### 👨🏻‍💻 Sobre mim
 
 - 🎓 Cursando Bacharelado em Ciência da Computação na Universidade Federal de Pernambuco
-- 💻 Atualmente focado em **React, Node.js, Express, PostgreSQL e Docker**
-- 🌱 Aprendendo mais sobre **Desenvolvimento Mobile e Clean Architecture**
-- 📊 Interesse por projetos de impacto com tecnologia e inovação
-- 📫 Contato: hcm@cin.ufpe.br
+- 💼 Desenvolvedor Back-end na Viitra Inovações
+- 🧠 Interesse em arquitetura de software, integração de APIs e engenharia de produto
+- 🚀 Atuação orientada por qualidade de código, colaboração e entrega contínua
+- 🌱 Aprendendo mais sobre Testes de Software e Clean Architecture
+
+---
+
+### 🛠️ Stack
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=rails" alt="Rails"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=electron" alt="Electron"/>
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+</div>
+
+---
+
+### 📌 Projetos em destaque
+
+- 🤖 **[ClinicAI](https://github.com/henriquecmelo1/ClinicAI)**  
+  Chatbot para triagem médica via WhatsApp com fluxo orquestrado por LangGraph, respostas contextuais com Gemini e processamento de áudio com Whisper.
+
+- 📚 **[Library App](https://github.com/henriquecmelo1/Library-App)**  
+  API RESTful em Ruby on Rails para gestão de biblioteca, aplicando STI, polimorfismo e autenticação com JWT, com **90%+ de cobertura de testes**.
+
+- ✈️ **[TripWise](https://github.com/henriquecmelo1/TripWise)**  
+  Plataforma de planejamento de viagens com geração de roteiros personalizados via API do Gemini, com foco em otimização de itinerários e recomendações.
 
 ---
 
@@ -19,35 +62,5 @@
 [![Email](https://img.shields.io/badge/Email-hcm@cin.ufpe.br-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hcm@cin.ufpe.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Melo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-carvalho-de-melo/)
 
----
-
-### 🛠️ Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,fastapi,postgres,mongodb,py,ts,js,html,css,git,github,docker" />
-</div>
-
----
-
-### 📌 Projetos em Destaque
-
-- ✈️ **[TripWise](https://github.com/henriquecmelo1/TripWise)**: Plataforma de planejamento de viagens que utiliza a API do Gemini para criar roteiros personalizados, otimizando itinerários e sugerindo atividades.
-- 🍻 **[DrinkRats](https://github.com/henriquecmelo1/DrinkRats)**: Plataforma gamificada para monitoramento e comparação de consumo entre amigos, com funcionalidades de criação de grupos, pontuação e registro em tempo real.
-- 🎙️ **[Noticast](https://github.com/luizschmalz/NotiCast)**: Projeto acadêmico que automatiza a conversão de notícias para podcasts gerados por IA, extraindo conteúdo via web scraping e gerando comentários/áudio com a API da OpenAI.
-
----
-
-### 💼 Experiência
-
-#### Monitor de Introdução à Programação
-- **Período:** Novembro de 2022 - Outubro de 2024
-- **Atividades:** Responsável por esclarecer dúvidas e fornecer feedback em resoluções de exercícios para turmas de aproximadamente 80 alunos por semestre. Auxílio ao professor em aulas, contribuindo para o desenvolvimento dos alunos.
-
-#### Projeto de Extensão - Ciência de Dados Aplicada à Telessaúde | Nutes UFPE
-- **Período:** Outubro de 2024 - Atual
-- **Atividades:** Responsável pela importação e tratamento de um banco de dados com mais de 550 mil registros do Hospital das Clínicas. As atividades incluem importação, limpeza e análise de dados para gerar relatórios e insights para melhoria de processos de saúde.
 
 
-### 📊 Minhas Estatísticas no GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=henriquecmelo1&show_icons=true&theme=dark)](https://github.com/henriquecmelo1)
